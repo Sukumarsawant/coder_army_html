@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="./defenselogo__1_-removebg-preview.png" alt="Defence Notes Logo" width="180" bgcolor="white>
+  <img src="./defenselogo__1_-removebg-preview.png" alt="Defence Notes Logo" width="180" bgcolor="white">
 </p>
 
 [Live Website on Netlify](https://notes-arena.netlify.app/)

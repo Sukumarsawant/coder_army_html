@@ -1,5 +1,7 @@
 # Defence Notes Arena
 
+[Live Website on Netlify](https://notes-arena.netlify.app/)
+
 This project is a 100% pure HTML educational website for Defence Notes, designed for maximum compatibility and simplicity. No CSS (Cascading Style Sheets) is used anywhere in the project—neither external, internal, nor inline. All styling and layout are achieved using only HTML attributes and tags.
 
 ## Features
@@ -19,7 +21,7 @@ This project is a 100% pure HTML educational website for Defence Notes, designed
 - Images (`.png`, `.jpg`) for logos and mindmaps
 
 ## How to Use
-Just open `index.html` in any web browser. All navigation and content will work without any server or build process.
+Just open `https://notes-arena.netlify.app/` in any web browser. All navigation and content will work without any server or build process.
 
 ## Author
 Sukumar Sawant
